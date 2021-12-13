@@ -2,7 +2,7 @@
 Dataset with IQ signals captured from multiple Sub-GHz technologies (Sigfox, LoRA, IEEE 802.15.4g, IEEE 802.15.4 SUN-OFDM, IEEE 802.11ah)
 
 
-## Summary
+## Dataset description
 
 We provide a dataset with IQ signals captured from multiple Sub-GHz technologies. Specifically, the dataset targets wireless technology recognition (machine learning) algorithms for enabling cognitive wireless networks. The Sub-GHz technologies include Sigfox, LoRA, IEEE 802.15.4g, IEEE 802.15.4 SUN-OFDM and IEEE 802.11ah. Additionally, we added a noise signal class for allowing detection of signal abscence.  
 
@@ -30,6 +30,7 @@ Please always refer to our publication [1] when using our dataset.
 
 [The dataset can be downloaded here.](https://cloud.ilabt.imec.be/index.php/s/bqXtdp9QsfXLbb3)
 
+## Additional datasets
 A subset of the above technologies is also available [here](https://drive.google.com/drive/u/1/folders/1lggEuJpGReQ3xnefS6WF316_xQrU5siz). More information and results with this dataset can be found in the publications [2] and [3].
 
 ## References
