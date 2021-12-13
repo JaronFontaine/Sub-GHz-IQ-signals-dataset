@@ -31,7 +31,7 @@ Please always refer to our publication [1] when using our dataset.
 [The dataset can be downloaded here.](https://cloud.ilabt.imec.be/index.php/s/bqXtdp9QsfXLbb3)
 
 ## Additional datasets
-A subset of the above technologies is also available [here](https://drive.google.com/drive/u/1/folders/1lggEuJpGReQ3xnefS6WF316_xQrU5siz). More information and results with this dataset can be found in the publications [2] and [3].
+A subset of the above technologies is also available [here](https://cloud.ilabt.imec.be/index.php/s/t6C4M6tx6NSAGMo). More information and results with this dataset can be found in the publications [2] and [3].
 
 ## References
 [1] Fontaine, J., Shahid, A., Elsas, R., Seferagic, A., Moerman, I., & De Poorter, E. (2020, November). Multi-band sub-GHz technology recognition on NVIDIA’s Jetson Nano. In 2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall) (pp. 1-7). IEEE.
