@@ -24,6 +24,15 @@ The dataset was captured using a [RTL-SDR](https://www.rtl-sdr.com/) at a sampli
 |                        | 863.125 MHz         | 200 KHz   | MCS 2 (OQPSK)                         |
 |                        | 863.125 MHz         | 200 KHz   | MCS 6 (16-QAM)                        |
 
+More information can be found in [1].
+
+Please always refer to our publication [1] when using our dataset.
+
 [The dataset can be downloaded here.](https://cloud.ilabt.imec.be/index.php/s/bqXtdp9QsfXLbb3)
 
+## References
+[1] Fontaine, J., Shahid, A., Elsas, R., Seferagic, A., Moerman, I., & De Poorter, E. (2020, November). Multi-band sub-GHz technology recognition on NVIDIA’s Jetson Nano. In 2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall) (pp. 1-7). IEEE.
+
+## Contact
+If you need any further details about the dataset, then you can contact at jaron.fontaine@ugent.be or adnan.shahid@ugent.be
 
