@@ -4,7 +4,7 @@ Dataset with IQ signals captured from multiple Sub-GHz technologies (Sigfox, LoR
 
 ## Summary
 
-We provide a dataset with IQ signals captured from multiple Sub-GHz technologies. Specifically, the dataset targets wireless technology recognition (machine learning) algorithms for enabling cognitive wireless networks. The Sub-GHz technologies include Sigfox, LoRA, IEEE 802.15.4g, IEEE 802.15.4 SUN-OFDM and IEEE 802.11ah.
+We provide a dataset with IQ signals captured from multiple Sub-GHz technologies. Specifically, the dataset targets wireless technology recognition (machine learning) algorithms for enabling cognitive wireless networks. The Sub-GHz technologies include Sigfox, LoRA, IEEE 802.15.4g, IEEE 802.15.4 SUN-OFDM and IEEE 802.11ah. Additionally, we added a noise signal class for allowing detection of signal abscence.  
 
 The dataset was captured using a [RTL-SDR](https://www.rtl-sdr.com/) at a sampling rate of 2.048 MHz using coaxial cables. Two center frequencies (864.0 MHz and 867.4 MHz) were considered to cover all considered channels of the wireless Sub-GHz technologies. The following settings for the various technologies have been considered:
 
@@ -24,14 +24,20 @@ The dataset was captured using a [RTL-SDR](https://www.rtl-sdr.com/) at a sampli
 |                        | 863.125 MHz         | 200 KHz   | MCS 2 (OQPSK)                         |
 |                        | 863.125 MHz         | 200 KHz   | MCS 6 (16-QAM)                        |
 
-More information can be found in [1].
+More information and results with our dataset can be found in [1].
 
 Please always refer to our publication [1] when using our dataset.
 
 [The dataset can be downloaded here.](https://cloud.ilabt.imec.be/index.php/s/bqXtdp9QsfXLbb3)
 
+A subset of the above technologies is also available [here](https://drive.google.com/drive/u/1/folders/1lggEuJpGReQ3xnefS6WF316_xQrU5siz). More information and results with this dataset can be found in the publications [2] and [3].
+
 ## References
 [1] Fontaine, J., Shahid, A., Elsas, R., Seferagic, A., Moerman, I., & De Poorter, E. (2020, November). Multi-band sub-GHz technology recognition on NVIDIA’s Jetson Nano. In 2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall) (pp. 1-7). IEEE.
+
+[2] Shahid, A., Fontaine, J., Camelo, M., Haxhibeqiri, J., Saelens, M., Khan, Z., ... & De Poorter, E. (2019, June). A convolutional neural network approach for classification of lpwan technologies: Sigfox, lora and ieee 802.15. 4g. In 2019 16th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON) (pp. 1-8). IEEE.
+
+[3] Shahid, A., Fontaine, J., Haxhibeqiri, J., Saelens, M., Khan, Z., Moerman, I., & De Poorter, E. (2019, April). Demo abstract: Identification of lpwan technologies using convolutional neural networks. In IEEE INFOCOM 2019-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS) (pp. 991-992). IEEE.
 
 ## Contact
 If you need any further details about the dataset, then you can contact at jaron.fontaine@ugent.be or adnan.shahid@ugent.be
