@@ -24,6 +24,10 @@ The dataset was captured using a [RTL-SDR](https://www.rtl-sdr.com/) at a sampli
 |                        | 863.125 MHz         | 200 KHz   | MCS 2 (OQPSK)                         |
 |                        | 863.125 MHz         | 200 KHz   | MCS 6 (16-QAM)                        |
 
+The measurement setup was captured using a mobile setup, as shown in the picture below.
+
+![Capturing setup](setup.jpg)
+
 More information and results with our dataset can be found in [1].
 
 Please always refer to our publication [1] when using our dataset.
