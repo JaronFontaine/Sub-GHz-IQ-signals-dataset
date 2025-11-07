@@ -10,8 +10,8 @@ The dataset was captured using a [RTL-SDR](https://www.rtl-sdr.com/) at a sampli
 
 | Technology             | Center frequency    | Bandwidth | Modulation / setting                  | 
 | --------               | --------            | --------  | --------                              |
-| LoRa                   | 868.1 MHz           | 125 MHz   | Spread spectrum SF 7                  |
-|                        | 868.1 MHz           | 125 MHz   | Spread spectrum SF 12                 |
+| LoRa                   | 868.1 MHz           | 125 KHz   | Spread spectrum SF 7                  |
+|                        | 868.1 MHz           | 125 KHz   | Spread spectrum SF 12                 |
 | Sigfox                 | 868.2 MHz           | 100 Hz    | BPSK (400 chan.)                      |
 | IEEE 802.11ah          | 863.5 MHz           | 1 MHz     | MCS 0, 10 (BPSK) and 7 (64-QAM)       |
 |                        | 864.0 MHz           | 2 MHz     | MCS 0 (BPSK) and 7 (64-QAM)           |
