@@ -47,3 +47,6 @@ A subset of the above technologies is also available [here](https://cloud.ilabt.
 ## Contact
 If you need any further details about the dataset, then you can contact at jaron.fontaine@ugent.be or adnan.shahid@ugent.be
 
+## License
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
